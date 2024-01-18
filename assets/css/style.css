@@ -421,11 +421,13 @@ nav img {
 }
 
 .navbar-nav {
-    margin-left: 80px;
+    margin-left: 186px;
 }
 
 nav li a {
-    color: #d3c9c1 !important;
+    color: #fff !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
 }
 
 nav li a.active {
@@ -833,7 +835,7 @@ aside .pages {
 
 .feature {
     background-color: #150725;
-    margin-top: -1px;
+    margin-top: -7%;
 }
 
 .feature .container .col-lg-3 {
